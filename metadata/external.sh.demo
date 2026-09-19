@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -eu
+
+# Optional final build-time commands run as root from /root.
+# Copy this file to external.sh and replace these comments with commands.
+# The staging directory and build caches are removed after this hook returns.

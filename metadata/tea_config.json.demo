@@ -1,0 +1,5 @@
+{
+  "name": "default",
+  "url": "https://gitea.example.com",
+  "token": "REPLACE_WITH_GITEA_TOKEN"
+}

@@ -1,0 +1,4 @@
+{
+  "provider": "searxng",
+  "searxngBaseUrl": "https://searxng.example.com"
+}
